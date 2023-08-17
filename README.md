@@ -1,0 +1,4 @@
+- Create a python virtual environment using: `python -m venv .venv`
+- Activate the python virtual environment using: `.venv\Scripts\actiavte` (windows) or `source .venv/bin/activate` (linux, mac)
+- Install project dependencies using: `pip install -r requirements.txt`
+- Run the sever using `run.sh` then open the localhost server `http://127.0.0.1:5000/`
